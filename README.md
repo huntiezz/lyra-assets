@@ -1,10 +1,18 @@
 # Device Mockups
 
-Apple is great and publishes device frames so you can use them for mockups. Unfortunately this isn't across the board, and most companies don’t make nice device frames, especially Android and Windows!
+Apple publishes device frames for mockups, which is great. Most other companies don't - especially Android and Windows - so I've been collecting frames myself.
 
-I’ve collected some of these for me to use, and will try and keep them up to date.
+Everything lives in `Exports/`, grouped by platform. I'll try to keep these updated as new devices come out.
 
-Learn about my story! [Portfolio](https://tbd) (if that’s easier!)
+## Stats
 
-## Latest update - 08 October 2025
-- Initialised Repo!
+- iPhone: 50
+- iPad: 52
+- Android Phone: 10
+- Android Tablet: 2
+- Mac Desktop: 32
+- MacBook: 8
+- Windows Desktop: 2
+- Windows Laptop: 10
+
+166 mockup files total.
